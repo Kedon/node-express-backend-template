@@ -2,7 +2,7 @@
 
 ## Node Express Backend Architecture
 
-This repository is the practical demonstration of the backend best practices discussed in the article on Medium:  [Medium: Backend Development: Bridging The Communication Gap](https://github.com/Kedon/node-express-backend-template). It's been crafted to serve as a blueprint for setting up a robust Node Express backend architecture.
+This repository is the practical demonstration of the backend best practices discussed in the article on Medium:  [Medium: Backend Development: Bridging The Communication Gap](https://medium.com/@valdenir/backend-development-bridging-the-communication-gap-d4c0e073469). It's been crafted to serve as a blueprint for setting up a robust Node Express backend architecture.
 
 ### Overview
 
